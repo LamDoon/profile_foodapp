@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+   >
+
+    <item android:id="@+id/menu_username"
+        android:icon="@drawable/ic_account_circle_pfr"
+        android:title="NguyenA"/>
+
+    <item android:id="@+id/menu_phone"
+        android:icon="@drawable/ic_phone_prf"
+        android:title="0909878675"/>
+
+    <item android:id="@+id/menu_name"
+        android:icon="@drawable/ic_account_box_prf"
+        android:title="Nguyễn Văn A"/>
+
+    <item android:id="@+id/menu_email"
+        android:icon="@drawable/ic_email_prf"
+        android:title="nguyen@gmail.com"/>
+
+    <item android:id="@+id/menu_gender"
+        android:icon="@drawable/ic_user_circle_prf"
+        android:title="Nam"/>
+
+    <item android:id="@+id/menu_birthdate"
+        android:icon="@drawable/ic_date_prf"
+        android:title="12/09/1993"/>
+
+    <item android:id="@+id/menu_job"
+        android:icon="@drawable/ic_card_travel_prf"
+        android:title="Nghề nghiệp"/>
+</menu>
